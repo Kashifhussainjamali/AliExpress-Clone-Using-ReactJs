@@ -1,0 +1,35 @@
+.main{
+    background-color: rgb(255, 232, 232);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.main h2{
+    color: red;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.b{
+    color: red;
+    font-size: 18px;
+}
+.main img{
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 20px;
+
+}
+.main p{
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.s{
+    color: rgb(121, 121, 121);
+    font-size: 15px;
+    margin-left: 10px;
+}
+.main b{
+    margin-left: 50px;
+}

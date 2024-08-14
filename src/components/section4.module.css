@@ -1,0 +1,11 @@
+.hh2{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+    width: 1150px;
+    margin-left: 70px;
+    margin-top: 40px;
+}

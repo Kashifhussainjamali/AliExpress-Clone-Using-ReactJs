@@ -1,0 +1,30 @@
+.h2{
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+}
+.img{
+    height: 130px;
+}
+.li1{
+    margin-left: 80px;
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.li2{
+    margin-left: 50px;
+    padding-left:70px;
+}
+.marq{
+    width: 1230px;
+    margin-left: 40px;
+}

@@ -1,0 +1,101 @@
+.main{
+    display: flex;
+    list-style: none;
+    background-color: rgba(25,25,25,255);
+    height: 100px;
+}
+.logoimg{
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.searchmain{
+    background-color: white;
+    height: 40px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.searcinput{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    width: 310px;
+    margin-top: 10px;
+
+}
+.searcicon{
+    background-color: rgba(25,25,25,255);
+    padding:5px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 2px;
+}
+.download{
+    display: flex;
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.download p{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.downloadimg{
+    height: 40px;
+}
+.pak{
+    color: white;
+    margin-left: 30px;
+    /* margin-top: 20px; */
+    align-items: center;
+    display: flex;
+    padding-bottom: 15px;
+}
+.pak p{
+    margin-left: 5px;
+}
+.pakimg{
+    height: 30px;
+    /* margin-top: 20px; */
+}
+.idbtn{
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+    font-size: 12px;
+    width: 70px;
+}
+.id{
+    color: white;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 30px;
+    display: flex;
+}
+.idimg{
+    height: 40px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.cart{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.cartimg{
+    height: 40px;
+    margin-right: 5px;
+}
+.cartvalue{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color: black;
+    background-color: white;
+    width: 40px;
+    border-radius: 30px;
+}

@@ -1,0 +1,55 @@
+.main1{
+    border: 1px solid silver;
+    border-radius: 20px;
+    width: 220px;
+    height: 300px;
+}
+.img{
+    height: 210px;
+    width: 180px;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.text1{
+    margin-left: 10px;
+    color: rgb(54, 54, 54);
+    font-size: 15px;
+}
+.text2{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.text3{
+    font-size: 22px;
+}
+.text4{
+    font-size: 13px;
+    margin-left: 5px;
+    color: rgb(112, 111, 111);
+}
+.shop{
+    height: 40px;
+
+    
+}
+.btn{
+    background-color: white;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+
+}
+.dive{
+    padding: 5px;
+    margin-top: 160px;
+    margin-left: 150px;
+    position: absolute;
+    background-color: white;
+    height: 40px;
+    border-radius: 50px;
+    border: 1px solid silver;
+}
+.dive:hover{
+    background-color: black;
+}

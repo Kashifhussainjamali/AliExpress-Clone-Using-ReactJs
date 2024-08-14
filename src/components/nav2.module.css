@@ -1,0 +1,39 @@
+.ulmain{
+    display: flex;
+    list-style: none;
+    background-color: rgba(25,25,25,255);
+    align-items: center;
+    padding-left: 80px;
+    padding-bottom: 10px;
+}
+.input{
+    background-color: rgba(83,83,83,255);
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    width: 250px;
+}
+.input img{
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.input b{
+    background-color: rgba(83,83,83,255);
+    border: none;
+    color: white;
+    font-size: 14px;
+}
+.textred{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.text{
+    /* color: red; */
+    font-size: 18px;
+    margin-left: 30px;
+    color: white;
+}
