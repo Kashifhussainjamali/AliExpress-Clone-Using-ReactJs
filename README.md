@@ -1,8 +1,10 @@
-# React + Vite
+# Discreption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"I've developed a dynamic clone of AliExpress using ReactJS, capturing the platform's extensive product listings and seamless user experience.
+This project features responsive design and efficient state management, ensuring a smooth and engaging interface. 
+The clone replicates key functionalities like product browsing, search, and user interactions."
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/user-attachments/assets/4fd5775f-4d13-4dae-9ed8-32091860ceb9
+
